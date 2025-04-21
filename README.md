@@ -10,7 +10,9 @@ A responsive and visually appealing personal portfolio website built using **Rea
 
 ## 📸 Preview
 
-![Portfolio Preview](./assets/preview.png)
+![Portfolio Preview](.
+![Screenshot 2025-01-23 053846](https://github.com/user-attachments/assets/c79e036d-6452-4268-9623-e141c433c181)
+)
 
 ---
 
