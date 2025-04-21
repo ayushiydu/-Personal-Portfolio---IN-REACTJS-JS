@@ -116,9 +116,8 @@ Performance Optimization: Lazy-load components and images.
 
 
 **RESULT**
-![Screenshot 2025-01-23 053846](https://github.com/user-attachments/assets/e3662594-d0db-4bb4-8cdd-8ce294f85db7)
 
-
+![Screenshot 2025-01-23 053846](https://github.com/user-attachments/assets/c79e036d-6452-4268-9623-e141c433c181)
 
 
 
