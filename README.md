@@ -116,7 +116,7 @@ Performance Optimization: Lazy-load components and images.
 
 
 **RESULT**
-![Image Alt](https://media-hosting.imagekit.io/11b92a4139354070/Screenshot%202025-01-23%20053846.png?Expires=1839822172&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=gdSY~eE3ErdHmD8LD3VWSlr~k8hv5gU864HI0DbhT7E2WpjhuZQDnzlMzyApgJ64ciSoqhxzxLwhgLlb7J5F5XgiFvHVvbh17BG8a13jszG50tWsgYu-dvSwFm8zEZ0vpKj9iv3THB5z2Syj5DOc0ipGSxDRMZKiE10BrMxvgYk2oxer1wVzgX9k9qCwsrs0QX3SrwCR8O4b0Ligm9lzTO~MgNKipHEty0Lx1ZHsvOp6pRAiCQoM~OazdOc87w3-BrFkaaoc7PfvpIEEgR9l4xiKgLHYp~SfzZPxPIBVbia7~ahwdcIiOFGsQ76wnnsgBFTz8F~x03NpS0r-3EfCuw__) 
+![Alt text](https://media-hosting.imagekit.io/11b92a4139354070/Screenshot%202025-01-23%20053846.png?Expires=1839822172&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=gdSY~eE3ErdHmD8LD3VWSlr~k8hv5gU864HI0DbhT7E2WpjhuZQDnzlMzyApgJ64ciSoqhxzxLwhgLlb7J5F5XgiFvHVvbh17BG8a13jszG50tWsgYu-dvSwFm8zEZ0vpKj9iv3THB5z2Syj5DOc0ipGSxDRMZKiE10BrMxvgYk2oxer1wVzgX9k9qCwsrs0QX3SrwCR8O4b0Ligm9lzTO~MgNKipHEty0Lx1ZHsvOp6pRAiCQoM~OazdOc87w3-BrFkaaoc7PfvpIEEgR9l4xiKgLHYp~SfzZPxPIBVbia7~ahwdcIiOFGsQ76wnnsgBFTz8F~x03NpS0r-3EfCuw__)
 
 
 
